@@ -1,6 +1,6 @@
 # x_o_game
 
-A new Flutter application.
+I made an x o game in flutter where you should try to let the computer win you because the computer plays stupidly in this game so you should try not to win :)
 
 ## Getting Started
 
